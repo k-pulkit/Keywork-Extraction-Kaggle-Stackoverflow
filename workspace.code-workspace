@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"analytic-signal.essential-data-science-pack",
+			"RandomFractalsInc.vscode-data-table"
+		]
+	}
+}
