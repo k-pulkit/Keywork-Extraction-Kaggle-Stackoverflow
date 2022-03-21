@@ -8,7 +8,8 @@
 	"extensions": {
 		"recommendations": [
 			"analytic-signal.essential-data-science-pack",
-			"RandomFractalsInc.vscode-data-table"
+			"randomfractalsinc.vscode-data-table",
+			"mutantdino.resourcemonitor"
 		]
 	}
 }
