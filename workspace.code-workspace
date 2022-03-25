@@ -9,7 +9,8 @@
 		"recommendations": [
 			"analytic-signal.essential-data-science-pack",
 			"randomfractalsinc.vscode-data-table",
-			"mutantdino.resourcemonitor"
+			"mutantdino.resourcemonitor",
+			"donjayamanne.python-environment-manager"
 		]
 	}
 }

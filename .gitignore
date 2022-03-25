@@ -5,12 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
+*.db
 
 # Do not track csv files
 input/Train.csv
 input/Test.csv
+input/train.db
 
 # Distribution / packaging
+.env
 .Python
 build/
 develop-eggs/
