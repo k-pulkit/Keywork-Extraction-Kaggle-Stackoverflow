@@ -8,9 +8,8 @@ __pycache__/
 *.db
 
 # Do not track csv files
-input/Train.csv
-input/Test.csv
-input/train.db
+input/*.csv
+input/*.pickle
 
 # Distribution / packaging
 .env
