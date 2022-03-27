@@ -1,0 +1,16 @@
+{
+        "APPLICATION": {
+            "ROOT": "/home/mluser/projects/Keywork-Extraction-Kaggle-Stackoverflow",
+            "INPUT": "/input",
+            "MODELS": "/output",
+            "NOTEBOOKS": "/notebooks",
+            "SRC": ":/src"
+        },
+        "AZURE": {
+            "STORAGE_ACCOUNTS": {
+                "DESCRIPTION": "Preprocessed data for models",
+                "CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=blobstorageforml;AccountKey=IZTCVhXpAa6nVsXwEdn9v0kaN7jrkC9kZMTRQaqW6R3uYO8u9KpfkTXuH/7HBl6DhslGW8x0yXGElUWDxNmOyg==;EndpointSuffix=core.windows.net",
+                "CONTAINER_NAME": "projectkeywordextraction"
+            }
+        }
+}
