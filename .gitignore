@@ -11,6 +11,8 @@ __pycache__/
 input/*.csv
 input/*.pickle
 
+dask*
+
 # Distribution / packaging
 .env
 .Python
