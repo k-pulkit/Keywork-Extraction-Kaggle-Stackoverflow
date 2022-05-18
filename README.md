@@ -1,2 +1,3 @@
 # Keywork-Extraction-Kaggle-Stackoverflow
-Extension of Kaggle notebook. The code is ready to use and has been deployed as an app.
+
+Please refer to the ppt for a detailed explation of the project
